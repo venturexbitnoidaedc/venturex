@@ -19,7 +19,7 @@ const topics = [
   {
     number: '01',
     icon: Lightbulb,
-    title: 'Production Services',
+    title: 'PRODUCT & SERVICES',
     copy: 'Innovative solutions that improve production, efficiency, and sustainable operations.'
   },
   {
