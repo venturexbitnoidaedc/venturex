@@ -382,17 +382,13 @@ BIT Mesra continues to shape future leaders in technology and innovation.
               STUDENT COMMUNITY
             </span>
 
-            <h3>Entrepreneurship Club</h3>
+            <h3>INSTITUTE INNOVATION CELL</h3>
 
             <div className="info-modal-content">
               <p>
-                TheEntrepreneurship Clubof Birla Institute of Technology, Mesra - Noida Campus is one of the institute's most active student-driven organizations, fostering innovation, leadership, and entrepreneurial thinking. Led by dedicated coordinators and members from diverse academic backgrounds, the club provides a platform where ideas are transformed into opportunities and future entrepreneurs are nurtured. The club organizes a variety of impactful activities including national-level competitions, business plan challenges, startup expos, innovation workshops, case study competitions, quizzes, panel discussions, and networking sessions.
+                The Institution's Innovation Council (IIC) at the BIT Noida Campus is established to build and strengthen a vibrant startup and innovation ecosystem for students and faculty.
 
-It also conducts industrial visits to leading organizations, offering students real-world exposure
-
-to business operations, emerging technologies, and corporate practices.
-
-In addition, the club maintains strong connections with entrepreneurs, startup founders, investors, and industry professionals, enabling students to gain insights through guest lectures, mentoring sessions, and interactive workshops, thereby strengthening industry-academia collaboration and practical learning.
+It operates under the Ministry of Education's Innovation Cell (MIC) to foster a culture of innovation, entrepreneurship, and startup development among students and faculty. The council actively hosts hackathons, business plan competitions, and expert mentoring sessions to turn creative ideas into viable enterprises.
               </p>
             </div>
           </>
