@@ -265,11 +265,11 @@ function App() {
         STUDENT COMMUNITY
       </span>
 
-      <h3>Entrepreneurship Club</h3>
+      <h3>INSTITUTE INNOVATION CELL</h3>
 
       <p>
-        Explore the Entrepreneurship Club at BIT Noida and
-        its work in building an entrepreneurial ecosystem.
+        The Institution's Innovation Council (IIC) at the BIT Noida Campus is established to build and strengthen a vibrant startup and innovation ecosystem for students and faculty.
+
       </p>
 
       <button
